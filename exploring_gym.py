@@ -64,7 +64,6 @@ class ReplayMemory(object):
         return len(self.memory)
 
 class DQN(nn.Module):
-
     def __init__(self,state_space_len,
                  action_space_len):
         super(DQN, self).__init__()
