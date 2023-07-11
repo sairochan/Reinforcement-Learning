@@ -1,4 +1,4 @@
-# Reinforcemnt-Learning
+# Reinforcement-Learning
 Navigating Virtual Worlds with RL Algorithms: A Brief Overview
 
 This project explores the application of reinforcement learning (RL) algorithms in navigating custom complex gym environments and Atari image-based environments using the PyTorch library.
