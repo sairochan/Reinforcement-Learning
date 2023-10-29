@@ -1,4 +1,9 @@
 # Reinforcement-Learning
+![ezgif com-video-to-gif (1)](https://github.com/sairochan/Reinforcement-Learning/assets/26859533/19b501b5-76f1-4738-80ba-d3af55308411)
+
+![ezgif com-video-to-gif](https://github.com/sairochan/Reinforcement-Learning/assets/26859533/1ecb715f-e74d-4daa-9971-90ef91990cff)
+
+
 Navigating Virtual Worlds with RL Algorithms: A Brief Overview
 
 This project explores the application of reinforcement learning (RL) algorithms in navigating custom complex gym environments and Atari image-based environments using the PyTorch library.
